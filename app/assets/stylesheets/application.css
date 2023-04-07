@@ -90,8 +90,12 @@ tbody{
   font-weight: bold;
   margin: 16.185px 0px;
  }
- 
+
  .label{
+  margin-top: 10px;
   display: block;
-  
+ }
+
+ .actions{
+  margin-top: 10px;
  }
